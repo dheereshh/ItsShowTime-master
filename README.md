@@ -1,6 +1,2 @@
-# MovieApp
-An App for a school project using Themoviedatabase api. This Application is written in Java for Android. With Ticket List, Booking and Seat Selection
-
-![picture](app_pic1.png)  ![picture](app_pic2.png) 
-
-![picture](app_pic3.png)  ![picture](app_pic4.png)
+# Its Show Time
+This application is a movie ticket booking application theta uses Themovies.api for real time movie retrieval.
