@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Profile" />
+
+
+    <item
+        android:id="@+id/tickets"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Tickets" />
+    <item
+        android:id="@+id/signout"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="signout" />
+</menu>
