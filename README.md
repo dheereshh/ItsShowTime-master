@@ -7,4 +7,3 @@ Version 1:
 3. Seat selection and ticket booking.
 4. OTP mobile verifiction during payment.
  
- Thank you.
